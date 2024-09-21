@@ -11,4 +11,4 @@
 // - Storing Data with JSON
 // - Adding/Removing/Listing/Reading a Note
 
-// Practice for student: Termial Blog project apply library readline-sync
+// Practice for student: Termial Blog project apply library readline-sync ld
